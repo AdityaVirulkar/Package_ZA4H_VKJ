@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Class to combine/sepearte data for dwn/upl</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+     <CMPNAME>COMBINE_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Method to combine all data of particular Object</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+     <CMPNAME>COMBINE_DATA_UP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Method to combine all upload data of particular Object</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+     <CMPNAME>DOWNLOAD_XL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Method to download data into XL</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+     <CMPNAME>OBJ_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Object Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAADT_DATA_TTYP_OPR</CLSNAME>
+     <CMPNAME>TTYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Object Type</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
